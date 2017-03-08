@@ -1,0 +1,30 @@
+<theme>
+	
+	<formatVersion>4</formatVersion>
+	<include>./../basevid.xml</include>
+	
+	<view name="system, basic, detailed, grid, video">
+
+		<image name="background" extra="true">
+			<color>0054b6ff</color>
+		</image>
+
+		<image name="logo">
+			<path>./logo.png</path>
+		</image>
+
+		<image name="console" extra="true">
+			<path>./console.png</path>
+		</image>
+
+	</view>
+	
+	<view name="video">
+
+		<image name="background">
+			<color>0054b6ff</color>
+		</image>
+
+	</view>
+	
+</theme>

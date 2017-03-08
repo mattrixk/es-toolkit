@@ -1,0 +1,248 @@
+<!--
+theme name:		BaseVid
+version:		0.1
+author:			Matt Kennedy
+email:			info@cutmonkey.net
+website:		cutmonkey.net
+license:		creative commons CC-BY-NC-SA
+
+This theme is a Base Test theme for people wanting something to help them learn how to use Video Previews.
+-->
+
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system, basic, detailed, grid, video">
+
+		<image name="background" extra="true">
+			<tile>true</tile>
+			<color>7381a0ff</color>
+			<path>./_inc/img/bg_color.png</path>
+			<size>1 1</size>
+			<pos>0 0</pos>
+		</image>
+
+		<helpsystem name="help">
+			<pos>0.020 0.945</pos>
+			<textColor>AAAAAA</textColor>
+			<iconColor>AAAAAA</iconColor>
+			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+		</helpsystem>
+
+	</view>
+	
+	<view name="system">
+
+		<image name="console" extra="true">
+			<maxSize>0.500 0.700</maxSize>
+			<pos>0.500 0.500</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+
+	</view>
+
+	<view name="basic">
+
+		<image name="logo">
+			<maxSize>0.280 0.140</maxSize>
+			<pos>0.160 0.100</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+			<text name="logoText">
+				<size>0.280 0.120</size>
+				<pos>0.020 0.040</pos>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.035</fontSize>
+				<color>FFFFFF</color>
+			</text>
+
+		<textlist name="gamelist">
+			<selectorColor>FFFFFF40</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+			<primaryColor>FFFFFF</primaryColor>
+			<secondaryColor>DDDDDD</secondaryColor>
+			<size>0.280 0.670</size>
+			<pos>0.020 0.220</pos>
+			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+			<fontSize>0.035</fontSize>
+			<lineSpacing>1.5</lineSpacing>
+			<horizontalMargin>0.01</horizontalMargin>
+			<alignment>left</alignment>
+		</textlist>
+
+		<image name="console" extra="true">
+			<maxSize>0.500 0.700</maxSize>
+			<pos>0.655 0.465</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+
+	</view>
+
+	<view name="detailed, video">
+
+		<image name="logo">
+			<maxSize>0.280 0.140</maxSize>
+			<pos>0.160 0.100</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+			<text name="logoText">
+				<size>0.280 0.120</size>
+				<pos>0.020 0.040</pos>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.035</fontSize>
+				<color>FFFFFF</color>
+			</text>
+
+		<textlist name="gamelist">
+			<selectorColor>FFFFFF40</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+			<primaryColor>FFFFFF</primaryColor>
+			<secondaryColor>d8d8d8</secondaryColor>
+			<size>0.280 0.430</size>
+			<pos>0.020 0.220</pos>
+			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+			<fontSize>0.035</fontSize>
+			<lineSpacing>1.5</lineSpacing>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+
+		<image name="console" extra="true">
+			<maxSize>0.280 0.360</maxSize>
+			<pos>0.840 0.220</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+
+		<text name="md_description">
+			<size>0.650 0.180</size>
+			<pos>0.020 0.710</pos>
+			<color>FFFFFF</color>
+			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+		</text>
+
+		<text name="md_lbl_rating, md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
+			<color>DDDDDD</color>
+			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<size>0.100 0.060</size>
+			<alignment>right</alignment>
+			<lineSpacing>1.0</lineSpacing>
+		</text>
+
+			<text name="md_lbl_rating">
+				<pos>0.700 0.450</pos>
+			</text>
+
+			<text name="md_lbl_players">
+				<pos>0.700 0.510</pos>
+			</text>
+				<text name="md_players">
+					<pos>0.810 0.510</pos>
+				</text>
+
+			<text name="md_lbl_genre">
+				<pos>0.700 0.570</pos>
+			</text>
+				<text name="md_genre">
+					<pos>0.810 0.570</pos>
+				</text>
+
+			<text name="md_lbl_releasedate">
+				<pos>0.700 0.630</pos>
+			</text>
+				<text name="md_releasedate">
+					<pos>0.810 0.630</pos>
+				</text>
+
+			<text name="md_lbl_playcount">
+				<pos>0.700 0.680</pos>
+			</text>
+				<text name="md_playcount">
+					<pos>0.810 0.680</pos>
+				</text>
+
+			<text name="md_lbl_lastplayed">
+				<pos>0.700 0.730</pos>
+			</text>
+				<text name="md_lastplayed">
+					<pos>0.810 0.730</pos>
+				</text>
+
+			<text name="md_lbl_developer">
+				<pos>0.700 0.780</pos>
+			</text>
+				<text name="md_developer">
+					<pos>0.810 0.780</pos>
+				</text>
+
+			<text name="md_lbl_publisher">
+				<pos>0.700 0.830</pos>
+			</text>
+				<text name="md_publisher">
+					<pos>0.810 0.830</pos>
+				</text>
+
+			<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
+				<color>FFFFFF</color>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.025</fontSize>
+				<lineSpacing>1.0</lineSpacing>
+				<size>0.170 0.060</size>
+			</text>
+			
+			<datetime name="md_releasedate, md_lastplayed">
+				<color>FFFFFF</color>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.025</fontSize>
+				<size>0.170 0.060</size>
+			</datetime>
+
+		<rating name="md_rating">
+			<size>0.150 0.040</size>
+			<pos>0.810 0.464</pos>
+			<filledPath>./_inc/img/rating_full.svg</filledPath>
+			<unfilledPath>./_inc/img/rating_hollow.svg</unfilledPath>
+		</rating>
+
+	</view>
+
+	<view name="detailed">
+
+		<image name="md_image">
+			<maxSize>0.340 0.610</maxSize>
+			<pos>0.500 0.345</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+
+	</view>
+
+	<view name="video">
+
+		<image name="background">
+			<tile>true</tile>
+			<color>7381a0ff</color>
+			<path>./_inc/img/bg_color.png</path>
+			<size>1 1</size>
+			<pos>0 0</pos>
+		</image>
+
+		<video name="md_video">
+			<size>0.300 0.400</size>
+			<pos>0.500 0.390</pos>
+			<origin>0.5 0.5</origin>
+			<delay>2.0</delay>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>true</showSnapshotDelay>
+		</video>
+
+		<image name="md_marquee">
+			<maxSize>0.340 0.610</maxSize>
+			<pos>0.500 0.345</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+		
+	</view>
+
+</theme>
