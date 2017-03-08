@@ -1,6 +1,8 @@
 # ES-extras
 Extra bits for EmulationStation on Windows
 
+**This is a work in progress. Most parts are currently missing**
+
 The idea behind this Repo is just to provide all the necessary bits for people who download one of the Windows ES builds like the [Video Preview](https://github.com/fieldofcows/EmulationStation/releases/tag/v0.1-beta.7) build by @fieldofcows or the [Carousel build](https://dl.dropboxusercontent.com/u/859248/RetroPieES/SystemCarousel_mod_beta_22feb2017.7z) by @Zigurana.
 
 Extras include:
