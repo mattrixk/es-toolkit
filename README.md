@@ -32,4 +32,11 @@ Extras include:
   - This is a basic theme without much ornamentation, to be used as both a learning tool, and a base/starting point for your own theme.
   - This theme only supports the Systems that have Roms in this download.
   
+- Custom Scrape and MIX Profiles for UXS
+  - These are the profiles I used to scrape all the single images, videos and MIX images for each Rom.
+  - You can add these profiles to your copy of UXS to scrape all your Roms to be same as those provided.
+  - There are 2 Scrape Profiles and 2 MIX Profiles, one MIX Profile for each Scrape Profile.
+    - Scrape-ES-extras-video.xml scrapes videos for each Rom (if available), and uses the MIX-ES-extras-video.zip to create a MIX image that uses Logo, 3D Box-art and Cartridge (if available).
+    - Scrape-ES-extras-no-video.xml uses the MIX-ES-extras-no-video.zip to create a MIX image that uses Logo, Screenshot, 3D Box-art and Cartridge (if available).
+  
 All images, logos and videos have been scraped with the Universal XML Scraper
