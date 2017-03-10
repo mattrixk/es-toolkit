@@ -1,4 +1,4 @@
-# es-toolkit
+# EmulationStation Toolkit
 A Toolkit full of little Extra bits for EmulationStation on Windows.
 
 **This is a work in progress. Most parts are currently missing**
