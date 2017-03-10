@@ -35,8 +35,8 @@ This Scrape Profile does *not* create any MIX Images. It also isn't that useful 
 ###Mattrixk [video].xml
 This Scrape Profile will download the following Media and place them into the gamelist.xml in the following tags:
 ```
-MIX Image   - <marquee>Aladdin-mix-video.jpg</marquee>
-Screenshot  - <image>Aladdin-screenshot.png</image>
+MIX Image   - <marquee>Aladdin-mix-video.png</marquee>
+Screenshot  - <image>Aladdin-screenshot.jpg</image>
 Video       - <video>Aladdin-video.mp4</video>
 ```
 
