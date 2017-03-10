@@ -2,7 +2,7 @@
 
 Everything within this "emulationstation" folder is meant to replace the ".emulationstaion" folder that comes with most Windows versions of ES.
 
-Just delete the contents of your ".emulationstation" folder and replace with the contents of this folder.
+Just delete the contents of your ".emulationstation" folder and replace with the contents of this folder. (Github won't let me upload a folder with a "." at the front, so we have to do it this way.)
 
 > If you are squeemish, you can always backup the contents of the ".emulationstation" folder elsewhere before deleting it.
 
