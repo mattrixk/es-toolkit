@@ -90,26 +90,6 @@
 		<Target_Path_Type>%XML_Path_File%</Target_Path_Type>
 		<Target_Value>game/image</Target_Value>
 	</Element>
-	<Element Type="Picture Box-Art 3D">
-		<Source_Type>XML_Download</Source_Type>
-		<Source_Download_Path>%Local_Path_File%</Source_Download_Path>
-		<Source_Download_Tag>-boxart3D</Source_Download_Tag>
-		<Source_Download_Ext>png</Source_Download_Ext>
-		<Source_Value>Data/jeu/medias/media_boxs/media_boxs3d/media_box3d_%COUNTRY%</Source_Value>
-		<Target_Type>XML_Path</Target_Type>
-		<Target_Path_Type>%XML_Path_File%</Target_Path_Type>
-		<Target_Value>game/boxart3d</Target_Value>
-	</Element>
-	<Element Type="Picture Box-Art 2D">
-		<Source_Type>XML_Download</Source_Type>
-		<Source_Download_Path>%Local_Path_File%</Source_Download_Path>
-		<Source_Download_Tag>-boxart2D</Source_Download_Tag>
-		<Source_Download_Ext>jpg</Source_Download_Ext>
-		<Source_Value>Data/jeu/medias/media_boxs/media_boxs2d/media_box2d_%COUNTRY%</Source_Value>
-		<Target_Type>XML_Path</Target_Type>
-		<Target_Path_Type>%XML_Path_File%</Target_Path_Type>
-		<Target_Value>game/boxart2d</Target_Value>
-	</Element>
 	<Element Type="Video">
 		<Source_Type>XML_Download</Source_Type>
 		<Source_Download_Path>%Local_Path_File%</Source_Download_Path>
