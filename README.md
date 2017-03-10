@@ -1,5 +1,5 @@
-# ES-extras
-Extra bits for EmulationStation on Windows
+# es-toolkit
+A Toolkit full of little Extra bits for EmulationStation on Windows.
 
 **This is a work in progress. Most parts are currently missing**
 
