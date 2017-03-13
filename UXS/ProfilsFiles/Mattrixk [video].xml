@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><Profil Name="mattrixk-video">
+<?xml version="1.0" encoding="UTF-8"?><Profil Name="Mattrixk (video)">
 	<General>
 		<Source_Image>Screenscraper-Retropie.jpg</Source_Image>
 		<UpperCase>True</UpperCase>
@@ -9,7 +9,7 @@
 		<Research>*.32x;*.a26;*.a52;*.a78;*.adf;*.adz;*.asc;*.atr;*.atr.gz;*.bas;*.bat;*.bin;*.bz2;*.cas;*.cbn;*.ccc;*.ccd;*.cdi;*.cdt;*.chd;*.col;*.com;*.cpc;*.crt;*.cso;*.ctr;*.cue;*.d64;*.dcm;*.dmk;*.dms;*.dsk;*.dump;*.exe;*.fba;*.fds;*.fig;*.g64;*.gam;*.gb;*.gba;*.gbc;*.gdi;*.gen;*.gg;*.gz;*.ima;*.img;*.int;*.ipf;*.iso;*.j64;*.jag;*.jvc;*.lnx;*.m3u;*.md;*.mdf;*.mgd;*.mgt;*.mx1;*.mx2;*.n64;*.nds;*.nes;*.ngc;*.ngp;*.nib;*.os9;*.pbp;*.pce;*.po;*.prg;*.raw;*.rom;*.sad;*.sbt;*.scl;*.sfc;*.sg;*.sh;*.smc;*.smd;*.sms;*.sna;*.st;*.stx;*.swc;*.szx;*.t64;*.tap;*.toc;*.trd;*.tzx;*.udi;*.v64;*.vb;*.vdk;*.vec;*.vsf;*.wav;*.ws;*.wsc;*.x64;*.xex;*.xfd;*.xfd.gz;*.z;*.z2;*.z64;*.z80;*.zip;*.znx||</Research>
 	</General>
 	<AutoConf>
-		<Source_RootPath>F:\EmulationStation-Alts\ES-carousel6\.emulationstation\roms</Source_RootPath>
+		<Source_RootPath>F:\EmulationStation\.emulationstation\roms</Source_RootPath>
 		<Target_XMLName>%host%\configs\all\emulationstation\gamelists\%System%\gamelist.xml</Target_XMLName>
 		<Target_RomPath>./</Target_RomPath>
 		<Source_ImagePath>%host%\configs\all\emulationstation\downloaded_images\%System%</Source_ImagePath>
