@@ -1,2 +1,352 @@
-<?xml version="1.0"?>
-<gameList />
+<gameList>
+<game id="1298" source="ScreenScraper">
+	<path>./Batman - Return of the Joker (USA).nes</path>
+	<name>Batman : Return of the Joker</name>
+	<desc>The Joker lives again in SunSoft's sequel to their NES 
+original. The Joker has somehow managed to escape from Arkham Asylum once again, and Batman must fight him across seven stages to restore peace to Gotham City.
+
+Batman carries a gauntlet shooting basic bullets by default. This can be upgraded with weapon powerups located in boxes throughout the level, giving access to homing and energy weapons. Every upgrade weapon can be charged up for a secondary attack, different for each weapon. Batman also has a slide useful against most enemies and some bosses. 
+
+Boss fights introduce a system where life is measured by points instead of tick marks or bars. In these sections, Batman has significantly more health, and can take many more hits when rumbling with these stronger foes.
+
+Levels include a snowy landscape, moving train, military base, and sewers. Two levels require you to run and dodge explosions while vehicles keep pace in the background. Some levels also have Batman activate a jetpack and play through a short side-scrolling shooter. 
+
+This game is one of the few Batman games that was not based directly on a movie or television series.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Batman - Return of the Joker (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Batman - Return of the Joker (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Batman - Return of the Joker (USA)-video.mp4</video>
+	<rating>0.75</rating>
+	<releasedate>19911202T000000</releasedate>
+	<developer>Sunsoft</developer>
+	<publisher>Sunsoft</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1373" source="ScreenScraper">
+	<path>./Batman Returns (USA).nes</path>
+	<name>Batman Returns</name>
+	<desc>Like Konami's other adaptation of Batman Returns, the NES version is a side-scrolling beat 'em up. Next to brawling action, it also features two sections where the player controls the Batmobile and the Batskiboat seen in the movie.
+
+In the beat 'em up sections, Batman has to defeat a large number of enemies (members of the Penguin's circus gang) to advance. Possible attacks include punches, sliding attacks, drop kicks and a powerful 360° cape slash attack which will drain Batman's health bar. Gadgets to be used include a limited number of batarangs and a grappling hook. The hook is useful for many things: it can take down flying enemies, pull Batman up to higher levels, lets him climb into open windows and more. Hidden in background items somewhere in the levels are power-ups, including hearts that refill the health bar and extra batarangs.
+
+Each of the six levels in the game concludes with a boss fight against one or more especially powerful enemies.
+
+The Batmobile is armed with machine guns and bat discs, used to dispatch the enemy bikes and cars in the driving level. The Batskiboat section is similar, except that there are no enemies and the only goal is to collect coins for extra points.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Batman Returns (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Batman Returns (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Batman Returns (USA)-video.mp4</video>
+	<rating>0.7</rating>
+	<releasedate>19930102T000000</releasedate>
+	<developer>Konami</developer>
+	<publisher>Konami</publisher>
+	<genre>Beat'em Up</genre>
+	<players>1</players>
+</game>
+<game id="1247" source="ScreenScraper">
+	<path>./Battletoads (USA).nes</path>
+	<name>Battletoads</name>
+	<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
+
+You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Battletoads (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Battletoads (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Battletoads (USA)-video.mp4</video>
+	<rating>0.8</rating>
+	<releasedate>19910602T000000</releasedate>
+	<developer>Rareware</developer>
+	<publisher>Tradewest</publisher>
+	<genre>Beat'em Up</genre>
+	<players>1-2</players>
+</game>
+<game id="1249" source="ScreenScraper">
+	<path>./Battletoads-Double Dragon (USA).nes</path>
+	<name>Battletoads &amp; Double Dragon</name>
+	<desc>Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors.
+
+The Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Battletoads-Double Dragon (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Battletoads-Double Dragon (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Battletoads-Double Dragon (USA)-video.mp4</video>
+	<rating>0.75</rating>
+	<releasedate>19930701T000000</releasedate>
+	<developer>Rareware</developer>
+	<publisher>Tradewest</publisher>
+	<genre>Beat'em Up</genre>
+	<players>1-2</players>
+</game>
+<game id="1278" source="ScreenScraper">
+	<path>./Castlevania III - Dracula's Curse (USA).nes</path>
+	<name>Castlevania III : Dracula's Curse</name>
+	<desc>Taking place 100 years before the events of Castlevania 1 and Castlevania 2, Dracula the Vampire has risen up to threaten the small village of Warakiya. Citizens who had banished the Belmont family now beg for Trevor Belmont's help in slaying Dracula. In </desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Castlevania III - Dracula's Curse (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Castlevania III - Dracula's Curse (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Castlevania III - Dracula's Curse (USA)-video.mp4</video>
+	<rating>0.9</rating>
+	<releasedate>19900901T000000</releasedate>
+	<developer>Konami</developer>
+	<publisher>Konami</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1589" source="ScreenScraper">
+	<path>./G.I. Joe - The Atlantis Factor (USA).nes</path>
+	<name>G.I. Joe : The Atlantis Factor</name>
+	<desc>Cobra, the evil villain, previous encounter with G.I. Joe ended with Cobraâs base been destroyed (as played in G.I. Joe: A Real American Hero). But this time Cobra has unlocked the secret of Atlantis. Using an ancient power source Cobra has managed to r</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/G.I. Joe - The Atlantis Factor (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/G.I. Joe - The Atlantis Factor (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/G.I. Joe - The Atlantis Factor (USA)-video.mp4</video>
+	<rating>0.55</rating>
+	<releasedate>19920302T000000</releasedate>
+	<developer>Capcom</developer>
+	<publisher>Capcom</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1300" source="ScreenScraper">
+	<path>./Gremlins 2 - The New Batch (USA).nes</path>
+	<name>Gremlins 2 : The New Batch</name>
+	<desc>As Gizmo, you must reach the Gremlin Control Centre to wipe them out. This is an isometric action game differing from the Elite title. You can gain items such as a bow and arrow and matches after each level to help. Mr Wing's Shop also contains many goodies, so watch out for its door magically appearing. Hazards include spiders, electrified wires, ground-mounted hazards, and a boss at the end of each level.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Gremlins 2 - The New Batch (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Gremlins 2 - The New Batch (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Gremlins 2 - The New Batch (USA)-video.mp4</video>
+	<rating>0.85</rating>
+	<releasedate>19901001T000000</releasedate>
+	<developer>Sunsoft</developer>
+	<publisher>Sunsoft</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1348" source="ScreenScraper">
+	<path>./Immortal, The (USA).nes</path>
+	<name>The Immortal</name>
+	<desc>The Immortal is an isometric action-adventure game.
+
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of 
+isometric death await.
+
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards. In short: You want to see what challenge lies in the next room.
+
+The puzzles range from simple avoidance of traps to the correct use of items; you collect objects in an inventory. Every now and then, The Immortal surprises with a special challenge. For example, you've got to ride a magic carpet through a hallway full of fire traps, or ride a barrel on an underground river. The dungeon isn't empty: some friedlies may have valuable information or trade items, the nasty sort of guys will attack. Combat is fought man-to-man on a special screen. Your adversary indicates his next attack a few seconds before he executes it, so you've got time to react appropriately. You can dodge to the left or the right, as well as attack from these two directions. There is no save option in the game, of course, but you may restart each level as often as you like. Levels can be skipped by entering passwords.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Immortal, The (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Immortal, The (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Immortal, The (USA)-video.mp4</video>
+	<rating>0.5</rating>
+	<releasedate>19901101T000000</releasedate>
+	<developer>Sandcastle</developer>
+	<publisher>Electronic Arts</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1433" source="ScreenScraper">
+	<path>./Indiana Jones and the Last Crusade (USA) (Taito).nes</path>
+	<name>Indiana Jones and the Last Crusade</name>
+	<desc>As in the movie (and the more famous graphic adventure), your task is to find the Holy Grail. Before this can be done you must find the Cross of Coronado, a shield and a diary. 
+
+This makes for a four-level arcade adventure combining climbs, exploration (with several routes through each level, and some traps) and puzzles. Indy is armed with his trusty whip to fight off foes, but can also get involved in hand-to-hand combat. The first level takes place in caves underneath Colorado, before you reach a moving circus train strewn with traps, a Zeppelin which is full of guards and ladders, and then Castle Grunwald in Austria.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Indiana Jones and the Last Crusade (USA) (Taito)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Indiana Jones and the Last Crusade (USA) (Taito)-screenshot.jpg</image>
+	<video/>
+	<rating>0.4</rating>
+	<releasedate>19910301T000000</releasedate>
+	<developer>Software Creations</developer>
+	<publisher>Taito Software</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1724" source="ScreenScraper">
+	<path>./King's Quest V (USA).nes</path>
+	<name>King's Quest V</name>
+	<desc>While it was a beautiful sunny day, King Graham decided to go out for a walk in the woods and hope that everything is normal when he got back. However, while he was gone, an evil wizard called Mordack uses a spell to warp his castle out of Daventry, along with the royal family. Soon after, Graham came back, only to realize that the castle is gone. After he wonders why, an owl called Cedric speaks to him about it and transports him to the land of Serenia, where his boss Crispin helps him get ready to face up to Mordack. Cedric is asked to go with him to make sure that Graham does not get in trouble.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/King's Quest V (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/King's Quest V (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/King's Quest V (USA)-video.mp4</video>
+	<rating>0.55</rating>
+	<releasedate>19920601T000000</releasedate>
+	<developer>Konami</developer>
+	<publisher>Sierra</publisher>
+	<genre>Adventure</genre>
+	<players>1</players>
+</game>
+<game id="1279" source="ScreenScraper">
+	<path>./Kirby's Adventure (USA).nes</path>
+	<name>Kirby's Adventure</name>
+	<desc>The Dream Spring, the source of all dreams, has dried up, causing all the dreams of Dream Land to disappear. Now it's up to Kirby to rescue Dream Land! 
+
+Kirby's Adventure is an action/adventure side scrolling platform game. As the pink puffball Kirby you will explore numerous, colorful lands with a variety of enemies to defeat. To help out on his journey, Kirby has the ability to eat enemies and spit them out as projectiles. With certain enemies Kirby can capture their abilities and e.g. gain a sword, shoot lasers, or even fly around the level. There are seven different stages, each broken up into multiple levels, and sometimes also containing a couple of bonus mini-games. The game cartridge features a battery backup allowing games to be saved without the need for passwords.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Kirby's Adventure (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Kirby's Adventure (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Kirby's Adventure (USA)-video.mp4</video>
+	<rating>0.8</rating>
+	<releasedate>19930501T000000</releasedate>
+	<developer>HAL Laboratory</developer>
+	<publisher>Nintendo</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1317" source="ScreenScraper">
+	<path>./Mega Man 4 (USA).nes</path>
+	<name>Mega Man 4</name>
+	<desc>In Mega Man 4, Dr. Wily is declared as having been killed by the explosion of Gamma. A year passes and Rock, Roll, and Dr. Light are living in peace. But soon, the peace is broken by a new threat.
+
+A supposed colleague of Dr. Light's, the mysterious Dr. Cossack, has sent out eight of his own Robot Masters to find Mega Man, whom Cossack blames for the kidnapping of his daughter. Mega Man, hoping to clear his name, sets out to find Dr. Cossack, this time armed with a powerful new weapon: the Rock Buster!!
+
+Rockman must now battle with Cossack's fiendish Robot Masters and find Cossack's daughter before it's too late!
+
+Originally for the NES, Mega Man 4 was also released for the PSX in Japan as the fourth installment in the Rockman Complete Works series.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Mega Man 4 (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Mega Man 4 (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Mega Man 4 (USA)-video.mp4</video>
+	<rating>0.7</rating>
+	<releasedate>19920102T000000</releasedate>
+	<developer>Capcom</developer>
+	<publisher>Capcom</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1425" source="ScreenScraper">
+	<path>./Robin Hood - Prince of Thieves (USA).nes</path>
+	<name>Robin Hood : Prince Of Thieves</name>
+	<desc>England is in trouble.
+
+Richard the Lion-Hearted, king of England, is off fighting in the Crusades, and while he's gone, the kingdom is ruled by the Sheriff and his evil black witch Mortianna.
+
+You start in the city dungeons, being whipped by the Sheriff's prison guards.
+
+Now its all up to you. Set yourself free, find friends in Sherwood forest, rescue the lovely Main Marian, and set England free!
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Robin Hood - Prince of Thieves (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Robin Hood - Prince of Thieves (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Robin Hood - Prince of Thieves (USA)-video.mp4</video>
+	<rating>0.05</rating>
+	<releasedate>19911102T000000</releasedate>
+	<developer>Virgin</developer>
+	<publisher>Sculptured Software</publisher>
+	<genre>Role playing games</genre>
+	<players>1</players>
+</game>
+<game id="1546" source="ScreenScraper">
+	<path>./Silver Surfer (USA).nes</path>
+	<name>Silver Surfer</name>
+	<desc>The Silver Surfer roams throughout space as herald to Galactus, looking for new planets for him to feed on. However his mission is interrupted by a summon from Galactus. Silver Surfer learns that creatures from the Magick Dimension are trying to break through into the universe and their coming will end all life. Vowing to stop them, Silver Surfer must assemble the pieces of a mysterious Cosmic Device and use it to push them back. The pieces of the Device are currently in the hands of some malicious creatures: Reptyl, Mephisto, Skrull Emperor, Possessor and Firelord. Silver Surfer must travel to their domains and defeat them in order to obtain pieces of the device.
+
+Silver Surfer is a shooter game, with some levels taking place vertically and some horizontally. The Surfer's only ability is to move around on the screen and to shoot directly in front of him. Power-ups that can be picked up include: the letter "F" (Firepower) which will increase the number and power of his projectiles, Smart bombs which destroy everything on the screen, the letter "S" (Speedup) which increases the surfer's movement and Orbs which will also fire the Surfer's weapon. Orbs are special in that two can be obtained (only 1 is shown on horizontal scrolling levels) and they can be positioned to fire forwards, backwards or sideways.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Silver Surfer (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Silver Surfer (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Silver Surfer (USA)-video.mp4</video>
+	<rating>0.5</rating>
+	<releasedate>19901102T000000</releasedate>
+	<developer>Arcadia Systems</developer>
+	<publisher>Software Creations</publisher>
+	<genre>Action</genre>
+	<players>1-2</players>
+</game>
+<game id="1543" source="ScreenScraper">
+	<path>./Simpsons, The - Bart vs. the World (USA).nes</path>
+	<name>The Simpsons : Bart vs the World</name>
+	<desc>This game is actually a compilation of smaller games belonging to different genres. Krusty the clown appears in the beginning of the game and presents a menu with five games to play (one of which is not available from the start): A jump-and-run game, where Bart must find an exit on a ship, while enemies fire at him and try to prevent him from reaching the exit; a card game, where you have five tries to find hidden cards on a board; a simple jigsaw puzzle; a series of trivia questions concerning the Simpsons; and finally, a platform-skateboard game (available only after you have completed the ship level). Needless to say all games are connected to the famous TV series "The Simpsons".
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Simpsons, The - Bart vs. the World (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Simpsons, The - Bart vs. the World (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Simpsons, The - Bart vs. the World (USA)-video.mp4</video>
+	<rating>0.45</rating>
+	<releasedate>19911201T000000</releasedate>
+	<developer>Imagineering Inc</developer>
+	<publisher>Acclaim Entertainment</publisher>
+	<genre>Sports</genre>
+	<players>1</players>
+</game>
+<game id="1592" source="ScreenScraper">
+	<path>./Star Trek - 25th Anniversary (USA).nes</path>
+	<name>Star Trek : 25th Anniversary</name>
+	<desc>The Ship Enterprise is on a 5 year mission: To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before. While the Enterprise is investigating strange gravitational disturbances, it is drawn into a dimensional hole and ends up in unknown space with broken warp engines. Now, Captain Kirk and his crew must try to repair the ship and find a way home.
+
+Gameplay is divided into two parts, taking place on the ship's bridge and away missions. On the bridge, you can communicate with other ships, call up a map to navigate the ship (once the warp engines are fixed), enter battle mode to fight other ships (which does not happen very often), save the game or beam down to a planet's surface.
+These away missions make up the major part of the game and play very much like other action adventures. You can talk to aliens find and use objects, solve puzzles and fight against hostile lifeforms.  Battles with other ships or on away missions are handled in simple Shoot'em Up-fashion.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Star Trek - 25th Anniversary (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Star Trek - 25th Anniversary (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Star Trek - 25th Anniversary (USA)-video.mp4</video>
+	<rating>0.75</rating>
+	<releasedate>19920201T000000</releasedate>
+	<developer>Interplay</developer>
+	<publisher>Ultra Games</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1405" source="ScreenScraper">
+	<path>./Star Wars - The Empire Strikes Back (USA).nes</path>
+	<name>Star Wars : The Empire Strikes Back</name>
+	<desc>Based on the movie, so the storyline is basically the same. You play as Luke Skywalker, and using your blaster, lightsaber and force power skills, you must journey through Hoth, Echo Base, Dagobah, Bespin and Cloud City. Enemies such as Darth Vader and Boba Fett will appear along the way, while R2, Yoda and Obi-Wan appear to give you tips on enemy weakness. Also keep and eye out for things you won't see in the movie, such as trying to beat Slave 1 (Boba Fett's ship) and fighting Cloud Cars.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Star Wars - The Empire Strikes Back (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Star Wars - The Empire Strikes Back (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Star Wars - The Empire Strikes Back (USA)-video.mp4</video>
+	<rating>0.7</rating>
+	<releasedate>19920301T000000</releasedate>
+	<developer>Sculptured Software</developer>
+	<publisher>JVC</publisher>
+	<genre>Action</genre>
+	<players>1</players>
+</game>
+<game id="1246" source="ScreenScraper">
+	<path>./Super Mario Bros. 3 (USA).nes</path>
+	<name>Super Mario Bros. 3</name>
+	<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Super Mario Bros. 3 (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros. 3 (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Super Mario Bros. 3 (USA)-video.mp4</video>
+	<rating>0.85</rating>
+	<releasedate>19900212T000000</releasedate>
+	<developer>Nintendo</developer>
+	<publisher>Nintendo</publisher>
+	<genre>Platform</genre>
+	<players>1-2</players>
+</game>
+<game id="1296" source="ScreenScraper">
+	<path>./Teenage Mutant Ninja Turtles II - The Arcade Game (USA).nes</path>
+	<name>Teenage Mutant Ninja Turtles 2 : The Arcade Game</name>
+	<desc>April O'Neil, the reporter friend of the Teenage Mutant Ninja Turtles, is kidnapped by the villainous Shredder and his two goons, Bebop and Rocksteady. The four ninja turtles: Raphael, Michelangelo, Donatello and Leonardo fight their way through hordes of Foot Soldiers in order to rescue April. They battle familiar foes such as the mad scientist Baxter Stockman, General Traag from Dimension X and the evil alien brain Krang, up to the final showdown with Shredder himself.
+
+Teenage Mutant Ninja Turtles: The Arcade Game is a port of the popular arcade game made by Konami during the height of the cartoon series' popularity. Depending on the version of the game, up to two, three or four players can take part in the action. The game plays like a simplified Double Dragon. While most of the standard Foot Soldier enemies are easily dispatched, some attack with knives or ray guns and are thus more dangerous. At the end of each level, players encounter a boss (or in certain cases two bosses working in tandem, such as Bebop and Rocksteady).
+
+The NES version of the game features additional content not present in other versions of the game: two new levels (Snowy Central Park and The Dojo), new bosses (including Tora, Shogun and Baxter Stockman as a fly), additional music tracks as well as more variations of Foot Soldiers.
+</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)-video.mp4</video>
+	<rating>0.85</rating>
+	<releasedate>19901202T000000</releasedate>
+	<developer>Ultra Software Corporation</developer>
+	<publisher>Konami</publisher>
+	<genre>Action</genre>
+	<players>1-2</players>
+</game>
+<game id="1779" source="ScreenScraper">
+	<path>./Ultimate Air Combat (USA).nes</path>
+	<name>Ultimate Air Combat</name>
+	<desc>The dictator, General Don Gwano, has attacked his neighboring countries with his army and navy. To stop the dictator, Admiral Cliff Stormdrane suggests using the best pilot to make lightning strikes on Don Gwano's forces.
+
+The game features 3 different flyable planes; FA-18 Hornet, AV-8 Harrier, and the F-14 Tomcat. The game features several types of missiles and bombs for the planes to use, including the harpoon, ASRAAM, rockeye, sea eagle, and maverick
+
+Ultimate Air Combat has 36 different missions, then one last final mission. Each mission is grouped into two parts. The first part uses a cockpit view where the player must shoot down three planes before either running out of fuel or getting shot down by enemy planes. After that, the second half of the mission uses an isometric view where the player must destroy enemy forces and installations.</desc>
+	<marquee>~/.emulationstation/downloaded_images/nes/Ultimate Air Combat (USA)-mix-video.png</marquee>
+	<image>~/.emulationstation/downloaded_images/nes/Ultimate Air Combat (USA)-screenshot.jpg</image>
+	<video>~/.emulationstation/downloaded_images/nes/Ultimate Air Combat (USA)-video.mp4</video>
+	<rating>0.8</rating>
+	<releasedate>19920401T000000</releasedate>
+	<developer>Activision</developer>
+	<publisher>Activision</publisher>
+	<genre>Simulation</genre>
+	<players>1</players>
+</game>
+</gameList>
