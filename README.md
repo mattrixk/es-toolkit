@@ -1,44 +1,24 @@
 # EmulationStation Toolkit
-A Toolkit full of little Extra bits for EmulationStation on Windows.
+*A Toolkit full of little Extra bits for EmulationStation on Windows.*
 
-**This is a work in progress. Most parts are currently missing**
+---
 
-The idea behind this Repo is just to provide all the necessary bits for people who download one of the Windows ES builds like the [Video Preview](https://github.com/fieldofcows/EmulationStation/releases/tag/v0.1-beta.7) build by @fieldofcows or the [Carousel build](https://dl.dropboxusercontent.com/u/859248/RetroPieES/SystemCarousel_mod_beta_22feb2017.7z) by @Zigurana.
+**This is a work in progress. Many parts of the Toolkit are currently missing. I'm steadily working on it and it should hopefully be complete soon**
 
-Extras include:
-- Bat files to launch ES in different Windowed sizes
-  - Full screen - 1920x1080
-  - Mid screen - 1280x720
-  - 4:3 - 1024x768
-  
-- Rom folders for multiple Systems, each with a number of fake roms. (Please note, these are just empty .txt files that have been renamed to match the expected file extensions. *THEY ARE NOT REAL ROMS*).
+---
 
-- Scraped images and videos for each of the included Systems and Roms.
-  - Scraped images include Box-art, Fan-art, Logos, Screenshots and Cartridges (where available).
-  - I have also included a basic MIX image from [UXS](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper/) for each of the Roms.
-  - The files are named like this:
-    - Aladdin-boxart.png
-    - Aladdin-fanart.jpg
-    - Aladdin-screenshot.jpg
-    - Aladdin-cartridge.png
-    - Aladdin-logo.png
-    - Aladdin-mix.png
-    - Aladdin-video.mp4
+I've put this Toolkit together to help people that want to start making themes for EmulationStation and RetroPie (and possibly RecalBox too. I haven't tried it, so I don't know how much help any of this will be for them).
 
-- Gamelists for each of the included Systems and Roms.
-  - All videos are within "video" tags.
-  - All "image" tags are filled with the Screenshots.
-  - All "marquee" tags are filled the Logos.
+It's basically a starting point that contains (fake\*) Roms with pre-scraped metadata, images and videos so you can just jump right in and start creating.
 
-- A custom Theme that supports Video Preview.
-  - This is a basic theme without much ornamentation, to be used as both a learning tool, and a base/starting point for your own theme.
-  - This theme only supports the Systems that have Roms in this download.
-  
-- Custom Scrape and MIX Profiles for UXS
-  - These are the profiles I used to scrape all the single images, videos and MIX images for each Rom.
-  - You can add these profiles to your copy of UXS to scrape all your Roms to be same as those provided.
-  - There are 2 Scrape Profiles and 2 MIX Profiles, one MIX Profile for each Scrape Profile.
-    - Scrape-ES-extras-video.xml scrapes videos for each Rom (if available), and uses the MIX-ES-extras-video.zip to create a MIX image that uses Logo, 3D Box-art and Cartridge (if available).
-    - Scrape-ES-extras-no-video.xml uses the MIX-ES-extras-no-video.zip to create a MIX image that uses Logo, Screenshot, 3D Box-art and Cartridge (if available).
+**Items in this Toolkit include:**
+- Links to Windows versions of EmulationStation.
+- Bat files to launch ES in different Windowed sizes.
+- 100 (fake\*) Roms over 5 Systems: Gameboy, Gameboy Advance, N64, NES and SNES (20 Roms each).
+- Scraped metadata, artwork and videos for each every Rom.
+- Custom Scrape and MIX Profiles for the [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper/).
+- A custom Theme that supports Video Previews and the Carousel Mod.
   
 All images, logos and videos have been scraped with the Universal XML Scraper
+
+>\* **There are no real Roms in this Repo.** They are just .txt files that have been renamed to match real games from their respective Systems. If you want real Roms you will have to find them yourself, I can't help you with that.
