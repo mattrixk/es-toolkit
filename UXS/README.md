@@ -59,7 +59,7 @@ MIX Profiles are the fun ones that create a single image from multiple images. T
 ###Mattrixk (video).zip
 Use this MIX Profile if you plan on using the "Mattrixk [video].xml" Scrape Profile. This MIX Profile will download the Logo, 3D Box-art and Cartridge, and combine them into a single 512x512 image that looks like this:
 
-![image](#)
+![image](https://github.com/mattrixk/es-toolkit/blob/master/emulationstation/downloaded_images/snes/Super%20Street%20Fighter%20II%20(USA)-mix-video.png)
 
 The Screenshot/Video will sit in the middle of this MIX Image.
 
