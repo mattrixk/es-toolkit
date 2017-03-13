@@ -12,7 +12,6 @@ I've put this Toolkit together to help people that want to start making themes f
 It's basically a starting point that contains (fake\*) Roms with pre-scraped metadata, images and videos so you can just jump right in and start creating.
 
 **Items in this Toolkit include:**
-- Links to Windows versions of EmulationStation.
 - Bat files to launch ES in different Windowed sizes.
 - 100 (fake\*) Roms over 5 Systems: Gameboy, Gameboy Advance, N64, NES and SNES (20 Roms each).
 - Scraped metadata, artwork and videos for each every Rom.
