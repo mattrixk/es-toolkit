@@ -78,7 +78,7 @@
 		<Source_Download_Ext>png</Source_Download_Ext>
 		<Target_Type>XML_Path</Target_Type>
 		<Target_Path_Type>%XML_Path_File%</Target_Path_Type>
-		<Target_Value>game/marquee</Target_Value>
+		<Target_Value>game/image</Target_Value>
 	</Element>
 	<Element Type="Rating">
 		<Source_Type>XML_Value</Source_Type>
