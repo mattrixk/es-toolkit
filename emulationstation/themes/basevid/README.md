@@ -4,7 +4,7 @@ Theme for Emulationstation and RetroPie
 
 
 
-##License
+## License
 
 LOGO NOTICE:
 The logos used and trademarks are copyright of their respective owners.
@@ -12,7 +12,7 @@ The logos used and trademarks are copyright of their respective owners.
 
 
 
-##Changelog
+## Changelog
 
 **2017-03-08**
 *0.1*
