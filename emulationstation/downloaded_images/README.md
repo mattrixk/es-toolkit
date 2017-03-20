@@ -1,4 +1,5 @@
-#Downloaded Images
+Downloaded Images
+-
 
 These are the scraped Media for each of the Roms in the Roms folder. Media includes:
 - Screenshots
