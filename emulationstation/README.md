@@ -1,4 +1,4 @@
-#.emulationstation
+# .emulationstation
 
 Everything within this "emulationstation" folder is meant to replace the ".emulationstaion" folder that comes with most Windows versions of ES.
 
