@@ -1,7 +1,27 @@
 # BaseVid
 Theme for Emulationstation and RetroPie
 
+## About the BaseVid Theme
 
+I made this theme so people can use it as a learning tool, and also as a base for creating their own themes.
+
+The default System View looks like this:  
+![System View 1](http://i.imgur.com/oyQhAUq.jpg)
+
+BaseVid also supports the Carousel Mod by [Zigurana](https://retropie.org.uk/forum/user/zigurana). The code for both Vertical and Horizontal Carousels are supplied, you just need to un-comment out the one you want to use, and make sure the others are commented out.
+
+Vertical  
+![System View 2](http://i.imgur.com/EYAIwuL.jpg)
+
+Horizontal  
+![System View 3](http://i.imgur.com/RvLAzpl.jpg)
+
+> Note: If you try to use the code for these Carousels on a version of ES without the Carousel Mod, the theme will break.
+
+The other views look like this:
+![Inner Views](http://i.imgur.com/DRCBZ3Z.jpg)
+
+> Note: The "Detailed" and "Video" Views look identical. That is deliberate. The Video will start playing after a 1 second pause.
 
 
 ## License
