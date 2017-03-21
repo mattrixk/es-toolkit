@@ -3,7 +3,7 @@
 
 ---
 
-**This is a work in progress. Many parts of the Toolkit are currently missing. I'm steadily working on it and it should hopefully be complete soon**
+**This is a work in progress. Some parts of the Toolkit are still missing. I'm steadily working on it and it should hopefully be complete soon**
 
 ---
 
