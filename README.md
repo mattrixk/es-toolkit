@@ -14,10 +14,12 @@ It's basically a starting point that contains (fake\*) Roms with pre-scraped met
 **Items in this Toolkit include:**
 - Bat files to launch ES in different Windowed sizes.
 - 100 (fake\*) Roms over 5 Systems: Gameboy, Gameboy Advance, N64, NES and SNES (20 Roms each).
-- Scraped metadata, artwork and videos for each every Rom.
+- Scraped metadata, artwork and ~~videos~~\** for each every Rom.
 - Custom Scrape and MIX Profiles for the [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper/).
 - A custom Theme that supports Video Previews and the Carousel Mod.
   
 All images, logos and videos have been scraped with the Universal XML Scraper
 
 >\* **There are no real Roms in this Repo.** They are just .txt files that have been renamed to match real games from their respective Systems. If you want real Roms you will have to find them yourself, I can't help you with that.
+
+>\** The Videos took up too much room, so I moved them to their own Repo. You can get them from [ES Toolkit - Videos](https://github.com/mattrixk/es-toolkit-videos).
