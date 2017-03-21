@@ -6,7 +6,7 @@ email:			info@cutmonkey.net
 website:		cutmonkey.net
 license:		creative commons CC-BY-NC-SA
 
-This theme is a Base Test theme for people wanting something to help them learn how to use Video Previews.
+This theme is a Base Test theme for people wanting something to help them learn how to use Video Previews. It is part of the ES Toolkit (https://github.com/mattrixk/es-toolkit).
 -->
 
 <theme>
@@ -14,6 +14,26 @@ This theme is a Base Test theme for people wanting something to help them learn 
 	<formatVersion>4</formatVersion>
 
 	<view name="system, basic, detailed, grid, video">
+
+		<image name="background">
+			<tile>true</tile>
+			<color>7381a0ff</color>
+			<path>./_inc/img/bg_color.png</path>
+			<size>1 1</size>
+			<pos>0 0</pos>
+		</image>
+
+			<helpsystem name="help">
+				<pos>0.020 0.945</pos>
+				<textColor>FFFFFF</textColor>
+				<iconColor>FFFFFF</iconColor>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.025</fontSize>
+			</helpsystem>
+
+	</view>
+	
+	<view name="system">
 
 		<image name="background" extra="true">
 			<tile>true</tile>
@@ -23,24 +43,69 @@ This theme is a Base Test theme for people wanting something to help them learn 
 			<pos>0 0</pos>
 		</image>
 
-		<helpsystem name="help">
-			<pos>0.020 0.945</pos>
-			<textColor>AAAAAA</textColor>
-			<iconColor>AAAAAA</iconColor>
-			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
-			<fontSize>0.025</fontSize>
-		</helpsystem>
+		<!-- Default System View -->
+			
+			<image name="console" extra="true">
+				<maxSize>0.500 0.700</maxSize>
+				<pos>0.500 0.500</pos>
+				<origin>0.5 0.5</origin>
+			</image>
+			
 
-	</view>
-	
-	<view name="system">
+		<!-- Custom Vertical System View -->
+			<!-- 
+			<image name="console" extra="true">
+				<maxSize>0.500 0.700</maxSize>
+				<pos>0.655 0.465</pos>
+				<origin>0.5 0.5</origin>
+			</image>
 
-		<image name="console" extra="true">
-			<maxSize>0.500 0.700</maxSize>
-			<pos>0.500 0.500</pos>
-			<origin>0.5 0.5</origin>
-		</image>
+			<carousel name="systemcarousel">
+				<type>vertical</type>
+				<pos>0.010 0.020</pos>
+				<size>0.300 0.890</size>
+				<color>FFFFFF00</color>
+				<logoScale>1.8</logoScale>
+				<logoSize>0.125 0.160</logoSize>
+				<maxLogoCount>5</maxLogoCount>
+			</carousel>
 
+			<text name="systemInfo">
+				<pos>0.010 0.930</pos>
+				<size>0.980 0.050</size>
+				<backgroundColor>FFFFFF00</backgroundColor>
+				<color>FFFFFF</color>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.025</fontSize>
+			</text>
+			 -->
+
+		<!-- Custom Vertical System View -->
+			<!-- 
+			<image name="console" extra="true">
+				<maxSize>0.980 0.670</maxSize>
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.355</pos>
+			</image>
+
+			<carousel name="systemcarousel">
+				<pos>0.010 0.710</pos>
+				<size>0.980 0.200</size>
+				<color>FFFFFF00</color>
+				<logoScale>1.5</logoScale>
+				<logoSize>0.125 0.160</logoSize>
+				<maxLogoCount>5</maxLogoCount>
+			</carousel>
+
+			<text name="systemInfo">
+				<pos>0.010 0.930</pos>
+				<size>0.980 0.050</size>
+				<backgroundColor>FFFFFF00</backgroundColor>
+				<color>FFFFFF</color>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.025</fontSize>
+			</text>
+			 -->
 	</view>
 
 	<view name="basic">
@@ -232,7 +297,7 @@ This theme is a Base Test theme for people wanting something to help them learn 
 			<size>0.300 0.400</size>
 			<pos>0.500 0.390</pos>
 			<origin>0.5 0.5</origin>
-			<delay>2.0</delay>
+			<delay>1.0</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
 		</video>
