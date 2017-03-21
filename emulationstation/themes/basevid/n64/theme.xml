@@ -5,7 +5,7 @@
 	
 	<view name="system, basic, detailed, grid, video">
 
-		<image name="background" extra="true">
+		<image name="background">
 			<color>0054b6ff</color>
 		</image>
 
@@ -19,9 +19,9 @@
 
 	</view>
 	
-	<view name="video">
+	<view name="system">
 
-		<image name="background">
+		<image name="background" extra="true">
 			<color>0054b6ff</color>
 		</image>
 
