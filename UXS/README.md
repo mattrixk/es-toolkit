@@ -1,6 +1,8 @@
 # Universal XML Scraper
 
-The [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) is a great tool that can scrape all metadata, images and videos for a large number of Systems. It pulls all the info from screenscraper.fr.
+> Note: These Profiles have been tested and work with v2.1.0.5 and v2.1.0.6. They have not been tested with the new v2.2.0.0 and higher. UXS had a significant overhaul for the v2.2 release, so I don't know if they will work or not. I will update this Repo once I've tested them.
+
+The [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) is a great tool that can scrape all metadata, images and videos for a large number of Systems. It pulls all the info from [screenscraper.fr](screenscraper.fr).
 
 You can use Scrape Profiles to grab specific data/media and create custom gamelist.xml files. You can also use MIX Profiles to create custom images that combine multiple media into a single image.
 
@@ -13,6 +15,8 @@ Provided here are multiple Scrape and MIX Profiles that fulfil various purposes.
 ## Scrape Profiles
 
 Scrape Profiles are placed in the "ProfilsFiles" folder of UXS. They are used to download the selected media and metadata, and use it to create a gamelist.xml. The Images in the "Ressources" folder are what you see in UXS when you have a specific Scrape Profile selected.
+
+> I haven't made any custom images yet, but I will add them to this Repo once I have. For now, the Scrape Profiles just use the default RetroPie UXS image.
 
 ### Mattrixk [all media].xml
 This Scrape Profile will download the following Media and place them into the gamelist.xml in the following tags:
@@ -45,7 +49,7 @@ This Scrape Profile is to be used in conjunction with the "Mattrixk (video).zip"
 ### Mattrixk [no-video].xml
 This Scrape Profile will download the following Media and place it into the gamelist.xml in the following tag:
 ```
-MIX Image   - <image>Aladdin-mix-no-video.jpg</image>
+MIX Image   - <image>Aladdin-mix-no-video.png</image>
 ```
 
 This Scrape Profile is to be used in conjunction with the "Mattrixk (no-video).zip" MIX Profile.
