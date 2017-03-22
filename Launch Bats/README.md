@@ -11,4 +11,6 @@ The 3 included .bat files are:
 
 I mostly use the Mid Size to create my themes and use the other 2 for testing in the final stages.
 
-> The code for these .bat files originally came from [@herb_fargus's](https://retropie.org.uk/forum/user/herb_fargus) Portable ES build. I just used it to make 3 that suited my needs. Also, as they were made for a Portable build that uses relative paths, they may not work if you have installed ES to your PC.
+These .bat files may not work if your file path contains a space eg: `C:\Program FIles (x86)\Emulationstation`. Make the ES path spaceless eg: `C:\Emulationstation` and you shouldn't have a problem.
+
+> The code for these .bat files originally came from [@herb_fargus's](https://retropie.org.uk/forum/user/herb_fargus) Portable ES build. I just used it to make 3 that suited my needs.
