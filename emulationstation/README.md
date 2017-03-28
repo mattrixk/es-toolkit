@@ -1,4 +1,12 @@
-# Launch .Bat Files
+# EmulationStation
+
+This is your Root EmulationStation folder.
+
+## .emulationstation
+
+This folder contains your config files, Roms, gamelists and media. It also contains the ES Themes.
+
+## Launch .Bat Files
 
 By default when Windows ES opens it takes up the whole screen, and the only way to get it to go away is by pressing the Windows button (or closing the application).
 
