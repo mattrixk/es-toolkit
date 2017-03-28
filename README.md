@@ -59,5 +59,5 @@ Special thanks to @fieldofcows for the video view and @Zigurana for the carousel
 
 Thanks to Screech for UXS and Rookervik for his Theme Helper.
 
-For those wanting to game, @herbfargus configured a portable build with Retroarch and EmulationStation called [PortableGameStation](https://github.com/HerbFargus/Portable-Game-Station/releases/)
+For those wanting a complete system with working emulators, @herbfargus configured a portable build with Retroarch and EmulationStation called [PortableGameStation](https://github.com/HerbFargus/Portable-Game-Station/releases/)
 
