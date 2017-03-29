@@ -294,17 +294,17 @@ This theme is a Base Test theme for people wanting something to help them learn 
 		</image>
 
 		<video name="md_video">
-			<size>0.300 0.400</size>
+			<maxSize>0.300 0.400</maxSize>
 			<pos>0.500 0.390</pos>
 			<origin>0.5 0.5</origin>
-			<delay>1.0</delay>
+			<delay>3.0</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
 		</video>
 
 		<image name="md_marquee">
-			<maxSize>0.340 0.610</maxSize>
-			<pos>0.500 0.345</pos>
+			<maxSize>0.340 0.260</maxSize>
+			<pos>0.500 0.140</pos>
 			<origin>0.5 0.5</origin>
 		</image>
 		
