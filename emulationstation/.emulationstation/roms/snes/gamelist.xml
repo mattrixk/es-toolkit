@@ -9,9 +9,9 @@ Chrono Trigger is a role-playing game, with the usual game mechanics fare for su
 The game utilizes the ATB (active time battle) combat system from  Final Fantasy games - sort of a mix of turn-based and real-time combat -  adding to it combo attacks. Apart from normal Techs, it is possible to use Double and Triple Techniques - super-powerful attacks which involve two or three characters using their abilities at once. There are no random battles in the game, as all the enemies are visible on screen, and it's even possible to just pass by them entirely. 
 
 The game allows you to face your ultimate adversary at different points of time, which leads to several different endings. There is also a New Game+ option, which allows you to carry over your powerful characters to a new game, and adds even more endings to the already existing ones.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Chrono Trigger (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Chrono Trigger (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Chrono Trigger (USA)-video.mp4</video>
+	<marquee>./media/Chrono Trigger (USA)-logo.png</marquee>
+	<image>./media/Chrono Trigger (USA)-screenshot.jpg</image>
+	<video>./media/Chrono Trigger (USA)-video.mp4</video>
 	<rating>0.85</rating>
 	<releasedate>19950822T000000</releasedate>
 	<developer>Square Enix</developer>
@@ -25,9 +25,9 @@ The game allows you to face your ultimate adversary at different points of time,
 	<desc>Clay Fighter 2, just like its predecessor, is a Street Fighter-like fighting game for 1 or 2 players.
 
 The characters were made out of clay and then renderized, which provides the game some individuality in the enormous mass of Super NES fighting games.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Clay Fighter 2 - Judgment Clay (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Clay Fighter 2 - Judgment Clay (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Clay Fighter 2 - Judgment Clay (USA)-video.mp4</video>
+	<marquee>./media/Clay Fighter 2 - Judgment Clay (USA)-logo.png</marquee>
+	<image>./media/Clay Fighter 2 - Judgment Clay (USA)-screenshot.jpg</image>
+	<video>./media/Clay Fighter 2 - Judgment Clay (USA)-video.mp4</video>
 	<rating>1</rating>
 	<releasedate>19950102T000000</releasedate>
 	<developer>Interplay</developer>
@@ -43,9 +43,9 @@ The characters were made out of clay and then renderized, which provides the gam
 Donkey Kong is joined by Diddy Kong: these two primates differ significantly. For example, Donkey Kong is generally stronger; he can destroy most enemies with a single jump and can lift barrels straight over his head to throw them farther. On the other hand, Diddy is faster and not as strong as Donkey; he can run really fast and do cartwheels. Diddy carries barrels in front of him, creating a shield against frontal attacks.
 
 The game is split into different worlds, which are split into different levels. Each level contains bonus areas, where one can collect bananas, medallions, and lives. At the end of each world is a boss, which is usually a larger version of a minor enemy.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Donkey Kong Country (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Donkey Kong Country (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Donkey Kong Country (USA)-video.mp4</video>
+	<marquee>./media/Donkey Kong Country (USA)-logo.png</marquee>
+	<image>./media/Donkey Kong Country (USA)-screenshot.jpg</image>
+	<video>./media/Donkey Kong Country (USA)-video.mp4</video>
 	<rating>0.8</rating>
 	<releasedate>19941125T000000</releasedate>
 	<developer>Rareware</developer>
@@ -60,9 +60,9 @@ The game is split into different worlds, which are split into different levels. 
 
 All the familiar enemies and helpful friends return, along with some new characters, including the wise Wrinkly Kong who will teach you some important lessons in gameplay. Again the emphasis is on banana collecting, where as every 100 bananas makes one extra life. Apart from beating K. Rool and rescuing Donkey Kong, there are extra missions that can be completed. Collect enough K. Rool Krem Coins to open up the routes to the Lost World, while every level has a hidden Hero Coin to collect.
 </desc>
-	<marquee>~/.emulationstation/roms/snes/media/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-video.mp4</video>
+	<marquee>./media/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-logo.png</marquee>
+	<image>./media/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-screenshot.jpg</image>
+	<video>./media/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-video.mp4</video>
 	<rating>0.95</rating>
 	<releasedate>19951205T000000</releasedate>
 	<developer>Rareware</developer>
@@ -80,9 +80,9 @@ Suddenly, the ultra-high-tech space particles of the suit begin interacting with
 Jim soon realizes he is in control of the suit.
 
 Gameplay is similar to the first game, with Jim jumping and running through the levels. There are 5 weapons more than the original game to collect. Characters like Princess Whats-Her-Name and Psy-Crow appear.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Earthworm Jim 2 (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Earthworm Jim 2 (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Earthworm Jim 2 (USA)-video.mp4</video>
+	<marquee>./media/Earthworm Jim 2 (USA)-logo.png</marquee>
+	<image>./media/Earthworm Jim 2 (USA)-screenshot.jpg</image>
+	<video>./media/Earthworm Jim 2 (USA)-video.mp4</video>
 	<rating>0.75</rating>
 	<releasedate>19950000T000000</releasedate>
 	<developer>Shiny Entertainment</developer>
@@ -100,9 +100,9 @@ Other improvements include:
 
 1. A new Count Down mode (defeat as many opponents as possible in 3 minutes).Extra color schemes for every character.New &amp; improved background graphics.Dolby Surround Sound support.
 Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Fatal Fury Special (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Fatal Fury Special (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Fatal Fury Special (USA)-video.mp4</video>
+	<marquee>./media/Fatal Fury Special (USA)-logo.png</marquee>
+	<image>./media/Fatal Fury Special (USA)-screenshot.jpg</image>
+	<video>./media/Fatal Fury Special (USA)-video.mp4</video>
 	<rating>0.65</rating>
 	<releasedate>00000000T000000</releasedate>
 	<developer>Takuyo</developer>
@@ -122,9 +122,9 @@ But then...something happened that would change the course of history forever...
 The Empire had heard word of the remains of a mystical being, known as an "Esper", being found in the mining town of Narshe. Quickly, three soldiers were dispatched to find this Esper and bring it to the Emperor. One of the soldiers, a young girl, triggers a power in the Esper that will begin one of the most dangerous series of events ever. And the only ones who can help her are a rag-tag band of rebels and heroes, whose very hearts and souls are the only ones that can save the world from the mad plans of the Empire.
 
 The game maintains the ATB (active time battle) system of the two previous  Final Fantasy games, spicing classic turn-based combat engine with a real-time element. The customization system combines character-specific classes with free-flowing character development. By finding various Espers and equipping them on characters, you can improve their parameters in different ways and choose the magic spells you want to learn for each character.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Final Fantasy III (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Final Fantasy III (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Final Fantasy III (USA)-video.mp4</video>
+	<marquee>./media/Final Fantasy III (USA)-logo.png</marquee>
+	<image>./media/Final Fantasy III (USA)-screenshot.jpg</image>
+	<video>./media/Final Fantasy III (USA)-video.mp4</video>
 	<rating>0.8</rating>
 	<releasedate>19941011T000000</releasedate>
 	<developer>Square Enix</developer>
@@ -140,9 +140,9 @@ The game maintains the ATB (active time battle) system of the two previous  Fina
 Killer Instinct is a Rare developed fighting game published by Nintendo (and distributed in the arcades by Midway).  Killer Instinct (or "KI" among its fanbase) is a 2D fighting game that features 3D rendered sprite based graphics. Players choose from 10 characters: Orchid, Cinder, Jago, Glacius, Fulgore, Riptor, Sabrewulf, Spinal, T.J. Combo, and Thunder.  
 
 Killer Instinct is known for its heavy combo based fighting system, allowing players to pull off moves that land an insane number of hits on their opponent, the highest being the "Ultra Combo".  The gameplay is also known for its use of combo breakers, finishing moves and stage fatalities, double energy bars, and dance-music inspired techno soundtrack.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Killer Instinct (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Killer Instinct (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Killer Instinct (USA)-video.mp4</video>
+	<marquee>./media/Killer Instinct (USA)-logo.png</marquee>
+	<image>./media/Killer Instinct (USA)-screenshot.jpg</image>
+	<video>./media/Killer Instinct (USA)-video.mp4</video>
 	<rating>0.75</rating>
 	<releasedate>19950801T000000</releasedate>
 	<developer>Rareware</developer>
@@ -162,9 +162,9 @@ As young Simba, you can fight various beasts, such as lizards, by jumping on the
 As an adult lion, you can still roar and jump, but now you fight enemies by slashing at them with your claws (if you're skillful enough, you can also grab them and toss them off the screen). 
 
 The game features no in-game save function, and it needs to be replayed from the beginning every time.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Lion King, The (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Lion King, The (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Lion King, The (USA)-video.mp4</video>
+	<marquee>./media/Lion King, The (USA)-logo.png</marquee>
+	<image>./media/Lion King, The (USA)-screenshot.jpg</image>
+	<video>./media/Lion King, The (USA)-video.mp4</video>
 	<rating>0.75</rating>
 	<releasedate>19941101T000000</releasedate>
 	<developer>Westwood Studios</developer>
@@ -178,9 +178,9 @@ The game features no in-game save function, and it needs to be replayed from the
 	<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
 
 To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Mortal Kombat II (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Mortal Kombat II (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Mortal Kombat II (USA)-video.mp4</video>
+	<marquee>./media/Mortal Kombat II (USA)-logo.png</marquee>
+	<image>./media/Mortal Kombat II (USA)-screenshot.jpg</image>
+	<video>./media/Mortal Kombat II (USA)-video.mp4</video>
 	<rating>0.8</rating>
 	<releasedate>19940909T000000</releasedate>
 	<developer>Midway</developer>
@@ -194,9 +194,9 @@ To win the main tournament, the player must beat each of the other human players
 	<desc>A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.
 
 Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Primal Rage (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Primal Rage (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Primal Rage (USA)-video.mp4</video>
+	<marquee>./media/Primal Rage (USA)-logo.png</marquee>
+	<image>./media/Primal Rage (USA)-screenshot.jpg</image>
+	<video>./media/Primal Rage (USA)-video.mp4</video>
 	<rating>0.55</rating>
 	<releasedate>19950801T000000</releasedate>
 	<developer>Time Warner Interactive</developer>
@@ -210,9 +210,9 @@ Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as 
 	<desc>You are a cyborg handyman in the far away future sent to a huge megacorporation where an evil AI has taken control of the companies robots. You are charged with facing these robots in combat and eliminating them one by one to reach the core and deactivate the AI.
 
 Gameplay wise this is a standard beat-em-up with gorgeous graphics. It has some annoying limitations like not being able to jump over your enemy and only one fire button.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Rise of the Robots (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Rise of the Robots (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Rise of the Robots (USA)-video.mp4</video>
+	<marquee>./media/Rise of the Robots (USA)-logo.png</marquee>
+	<image>./media/Rise of the Robots (USA)-screenshot.jpg</image>
+	<video>./media/Rise of the Robots (USA)-video.mp4</video>
 	<rating>0.35</rating>
 	<releasedate>19941201T000000</releasedate>
 	<developer>Time Warner Interactive</developer>
@@ -225,9 +225,9 @@ Gameplay wise this is a standard beat-em-up with gorgeous graphics. It has some 
 	<name>Samurai Shodown</name>
 	<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
 Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Samurai Shodown (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Samurai Shodown (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Samurai Shodown (USA)-video.mp4</video>
+	<marquee>./media/Samurai Shodown (USA)-logo.png</marquee>
+	<image>./media/Samurai Shodown (USA)-screenshot.jpg</image>
+	<video>./media/Samurai Shodown (USA)-video.mp4</video>
 	<rating>0.75</rating>
 	<releasedate>19941101T000000</releasedate>
 	<developer>SNK</developer>
@@ -243,9 +243,9 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
 New characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.
 
 The other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Street Fighter Alpha 2 (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Street Fighter Alpha 2 (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Street Fighter Alpha 2 (USA)-video.mp4</video>
+	<marquee>./media/Street Fighter Alpha 2 (USA)-logo.png</marquee>
+	<image>./media/Street Fighter Alpha 2 (USA)-screenshot.jpg</image>
+	<video>./media/Street Fighter Alpha 2 (USA)-video.mp4</video>
 	<rating>0.85</rating>
 	<releasedate>19961101T000000</releasedate>
 	<developer>Capcom</developer>
@@ -260,9 +260,9 @@ The other major difference is the loss of chain-combos and the gain of a custom 
 
 The game plays much like a traditional RPG: Mario and the members of his party gain experience points by defeating enemies. These experience points can increase the team's maximum number of hit points and flower points (magic points). The battles are also turn-based, but this time there are timed attacks and defenses. Timed attacks allow you to inflict more harm than normal to an enemy. Timed defenses, on the other hand, allow an enemy to inflict less harm than normal. You are only allowed to have three out of five team members on your party at a time. Mario is always in your party, regardless. Your team members can also purchase more weapons and abilities, along with better armor.
 </desc>
-	<marquee>~/.emulationstation/roms/snes/media/Super Mario RPG - Legend of the Seven Stars (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Super Mario RPG - Legend of the Seven Stars (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Super Mario RPG - Legend of the Seven Stars (USA)-video.mp4</video>
+	<marquee>./media/Super Mario RPG - Legend of the Seven Stars (USA)-logo.png</marquee>
+	<image>./media/Super Mario RPG - Legend of the Seven Stars (USA)-screenshot.jpg</image>
+	<video>./media/Super Mario RPG - Legend of the Seven Stars (USA)-video.mp4</video>
 	<rating>0.9</rating>
 	<releasedate>19960513T000000</releasedate>
 	<developer>Square Enix</developer>
@@ -274,9 +274,9 @@ The game plays much like a traditional RPG: Mario and the members of his party g
 	<path>./Super Street Fighter II (USA).sfc</path>
 	<name>Super Street Fighter II</name>
 	<desc>This is the sequel to the super hit Street Fighter II Turbo and Street Fighter II Championship games for the SNES and Genesis. This port of the arcade game featured all 4 new characters and stages making a total of 16 playable. The game was packed into massive 32Meg and 40Meg cartridges for the SNES and Genesis. Featured many multiplayer modes in addition to the single player mode. There was the returning elimination group battle where you and a group of people played until one person was the champ. The Point Battle where the person with the most points wins. Newer modes included Tournament where you had an 8 man double elimination tournament. Finally the Challenge mode, where you tried to get the most points on a CPU opponent or beat them real fast trying to surpass records.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Super Street Fighter II (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Super Street Fighter II (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Super Street Fighter II (USA)-video.mp4</video>
+	<marquee>./media/Super Street Fighter II (USA)-logo.png</marquee>
+	<image>./media/Super Street Fighter II (USA)-screenshot.jpg</image>
+	<video>./media/Super Street Fighter II (USA)-video.mp4</video>
 	<rating>0.8</rating>
 	<releasedate>19930911T000000</releasedate>
 	<developer>Capcom</developer>
@@ -289,9 +289,9 @@ The game plays much like a traditional RPG: Mario and the members of his party g
 	<name>Toy Story</name>
 	<desc>This game is based on the movie "Toy Story". It sets you as the character of Woody as you jump, swing, and drive to the end of each level. Each level contains familar scenes from the movie. The gameplay consists of the platformsidescrolling kind. You use Woody's pullstring to defeat enemies like sharks, Mr. Potatohead, and Ham. After each level, you are treated to still images from the movie.
 </desc>
-	<marquee>~/.emulationstation/roms/snes/media/Toy Story (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Toy Story (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Toy Story (USA)-video.mp4</video>
+	<marquee>./media/Toy Story (USA)-logo.png</marquee>
+	<image>./media/Toy Story (USA)-screenshot.jpg</image>
+	<video>./media/Toy Story (USA)-video.mp4</video>
 	<rating>0.75</rating>
 	<releasedate>19951201T000000</releasedate>
 	<developer>Buena Vista Interactive</developer>
@@ -309,9 +309,9 @@ There is a variety of new levels, some of which are interactive. Characters can 
 Players can go against the computer one-on-one, two-on-two, or take part in the 8-fighter tournament.
 
 The DS version has a wireless one-one-one multiplayer mode and includes the Puzzle Kombat mini-game from Mortal Kombat: Deception.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/Ultimate Mortal Kombat 3 (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/Ultimate Mortal Kombat 3 (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/Ultimate Mortal Kombat 3 (USA)-video.mp4</video>
+	<marquee>./media/Ultimate Mortal Kombat 3 (USA)-logo.png</marquee>
+	<image>./media/Ultimate Mortal Kombat 3 (USA)-screenshot.jpg</image>
+	<video>./media/Ultimate Mortal Kombat 3 (USA)-video.mp4</video>
 	<rating>0.7</rating>
 	<releasedate>19961001T000000</releasedate>
 	<developer>Midway</developer>
@@ -327,9 +327,9 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 In this game, you attempt to pin your opponent to the mat by reducing his power meter until he can fight no more.  There is a large number of moves to perform, including turnbuckle maneuvers and "illegal" acts such as hitting your opponent with a metal folding chair.
 
 This game supports up to 4 simultaneous players, and has the following game modes: One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, Raw Endurance Match, and Rematch.</desc>
-	<marquee>~/.emulationstation/roms/snes/media/WWF Raw (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/WWF Raw (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/WWF Raw (USA)-video.mp4</video>
+	<marquee>./media/WWF Raw (USA)-logo.png</marquee>
+	<image>./media/WWF Raw (USA)-screenshot.jpg</image>
+	<video>./media/WWF Raw (USA)-video.mp4</video>
 	<rating>0.6</rating>
 	<releasedate>19941101T000000</releasedate>
 	<developer>LJN</developer>
@@ -344,9 +344,9 @@ This game supports up to 4 simultaneous players, and has the following game mode
 
 Although it is a wrestling title, this game is structured a lot like a one-on-one fighter. It is very fast-paced, and features crazy special moves. Also, each match is divided into a series of rounds, much like a fighting game. Instead of each round ending in a KO, each round simply ends when you force the other wrestler(s) to fall by reducing their energy meter. Game modes include single player arcade mode, tournament mode, and vs mode for 1-on-1 multiplayer.
 </desc>
-	<marquee>~/.emulationstation/roms/snes/media/WWF WrestleMania - The Arcade Game (USA)-logo.png</marquee>
-	<image>~/.emulationstation/roms/snes/media/WWF WrestleMania - The Arcade Game (USA)-screenshot.jpg</image>
-	<video>~/.emulationstation/roms/snes/media/WWF WrestleMania - The Arcade Game (USA)-video.mp4</video>
+	<marquee>./media/WWF WrestleMania - The Arcade Game (USA)-logo.png</marquee>
+	<image>./media/WWF WrestleMania - The Arcade Game (USA)-screenshot.jpg</image>
+	<video>./media/WWF WrestleMania - The Arcade Game (USA)-video.mp4</video>
 	<rating>0.75</rating>
 	<releasedate>19951101T000000</releasedate>
 	<developer>Sculptured Software</developer>
