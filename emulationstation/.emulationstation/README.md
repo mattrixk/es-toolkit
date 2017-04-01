@@ -10,4 +10,4 @@ Within this folder are folders for 5 Systems, each with 20 fake Roms, a pre-popu
 
 Within this folder are 2 Themes:
 - The default Carbon Theme with Video Previews.
-- The BaseVid Theme made just for this Toolkit.
+- The BaseVid Theme made just for this Toolkit. It supports Video Previews and the new Carousel mod.
