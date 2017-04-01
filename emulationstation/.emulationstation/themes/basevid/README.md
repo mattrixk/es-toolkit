@@ -16,8 +16,6 @@ Vertical Carousel
 Horizontal Carousel  
 ![System View 3](http://i.imgur.com/RvLAzpl.jpg)
 
-> Note: If you try to use the code for these Carousels on a version of ES without the Carousel Mod, the theme will break.
-
 The other views look like this:  
 ![Inner Views](http://i.imgur.com/DRCBZ3Z.jpg)
 
