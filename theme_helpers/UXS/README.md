@@ -63,13 +63,13 @@ MIX Profiles are the fun ones that create a single image from multiple images. T
 ### Mattrixk (video).zip
 Use this MIX Profile if you plan on using the "Mattrixk [video].xml" Scrape Profile. This MIX Profile will download the Logo, 3D Box-art and Cartridge, and combine them into a single 512x512 image that looks like this:
 
-![image](https://github.com/mattrixk/es-toolkit/blob/master/emulationstation/downloaded_images/snes/Super%20Street%20Fighter%20II%20(USA)-mix-video.png)
+![image](https://raw.githubusercontent.com/mattrixk/es-toolkit/master/emulationstation/.emulationstation/roms/snes/media/Super%20Street%20Fighter%20II%20(USA)-mix-video.png)
 
 The Screenshot/Video will sit in the middle of this MIX Image.
 
 ### Mattrixk (no-video).zip
 Use this MIX Profile if you plan on using the "Mattrixk [no-video].xml" Scrape Profile. This MIX Profile will download the Logo, Screenshot, 3D Box-art and Cartridge, and combine them into a single 512x512 image that looks like this:
 
-![image](https://raw.githubusercontent.com/mattrixk/es-toolkit/master/emulationstation/downloaded_images/snes/Super%20Street%20Fighter%20II%20(USA)-mix-no-video.png)
+![image](https://raw.githubusercontent.com/mattrixk/es-toolkit/master/emulationstation/.emulationstation/roms/snes/media/Super%20Street%20Fighter%20II%20(USA)-mix-no-video.png)
 
 > A good thing to keep in mind is that the Videos from screenscraper.fr are 640x480 and between 3MB-15MB, so I wouldn't suggest putting too many on your RPi, as I don't know how well it would handle it. I'm in the process of trying to find a good way to reduce them using [Handbrake](https://handbrake.fr/), and if I find a way, I'll add the config to this Repo.
