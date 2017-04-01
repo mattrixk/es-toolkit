@@ -43,21 +43,22 @@ This theme is a Base Test theme for people wanting something to help them learn 
 			<pos>0 0</pos>
 		</image>
 
-		<!-- Default System View -->
-			
 			<image name="console" extra="true">
 				<maxSize>0.500 0.700</maxSize>
 				<pos>0.500 0.500</pos>
 				<origin>0.5 0.5</origin>
 			</image>
-			
 
-		<!-- Custom Vertical System View -->
-			<!-- 
+	</view>
+
+	<feature supported="carousel">
+
+		<view name="system">
+
+			<!-- Custom Vertical System View -->
 			<image name="console" extra="true">
 				<maxSize>0.500 0.700</maxSize>
 				<pos>0.655 0.465</pos>
-				<origin>0.5 0.5</origin>
 			</image>
 
 			<carousel name="systemcarousel">
@@ -78,13 +79,12 @@ This theme is a Base Test theme for people wanting something to help them learn 
 				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
 				<fontSize>0.025</fontSize>
 			</text>
-			 -->
 
-		<!-- Custom Vertical System View -->
+
+			<!-- Custom Vertical System View -->
 			<!-- 
 			<image name="console" extra="true">
 				<maxSize>0.980 0.670</maxSize>
-				<origin>0.5 0.5</origin>
 				<pos>0.5 0.355</pos>
 			</image>
 
@@ -106,7 +106,9 @@ This theme is a Base Test theme for people wanting something to help them learn 
 				<fontSize>0.025</fontSize>
 			</text>
 			 -->
-	</view>
+		</view>
+
+	</feature>
 
 	<view name="basic">
 
@@ -283,31 +285,35 @@ This theme is a Base Test theme for people wanting something to help them learn 
 
 	</view>
 
-	<view name="video">
+	<feature supported="video">
 
-		<image name="background">
-			<tile>true</tile>
-			<color>7381a0ff</color>
-			<path>./_inc/img/bg_color.png</path>
-			<size>1 1</size>
-			<pos>0 0</pos>
-		</image>
+		<view name="video">
 
-		<video name="md_video">
-			<maxSize>0.300 0.400</maxSize>
-			<pos>0.500 0.390</pos>
-			<origin>0.5 0.5</origin>
-			<delay>1.0</delay>
-			<showSnapshotNoVideo>true</showSnapshotNoVideo>
-			<showSnapshotDelay>true</showSnapshotDelay>
-		</video>
+			<image name="background">
+				<tile>true</tile>
+				<color>7381a0ff</color>
+				<path>./_inc/img/bg_color.png</path>
+				<size>1 1</size>
+				<pos>0 0</pos>
+			</image>
 
-		<image name="md_marquee">
-			<maxSize>0.340 0.260</maxSize>
-			<pos>0.500 0.140</pos>
-			<origin>0.5 0.5</origin>
-		</image>
-		
-	</view>
+			<video name="md_video">
+				<maxSize>0.300 0.400</maxSize>
+				<pos>0.500 0.390</pos>
+				<origin>0.5 0.5</origin>
+				<delay>1.0</delay>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
+			</video>
+
+			<image name="md_marquee">
+				<maxSize>0.340 0.260</maxSize>
+				<pos>0.500 0.140</pos>
+				<origin>0.5 0.5</origin>
+			</image>
+			
+		</view>
+
+	</feature>
 
 </theme>
