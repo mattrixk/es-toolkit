@@ -1,6 +1,6 @@
 # .emulationstation
 
-The ".emulationstation" folder contains a "roms" folder and a "themes" folder.
+The `.emulationstation` folder contains a `roms` folder and a `themes` folder.
 
 ## Roms
 
